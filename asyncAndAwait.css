@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+section {
+    border: 3px solid black;
+    padding: 10px;
+}
